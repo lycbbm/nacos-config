@@ -1,0 +1,16 @@
+spring:
+  application:
+    name: nacosconfig
+
+server:
+  port: 9007
+
+config:
+  name: bbm
+  age: 12
+  friend:
+    name: lili
+student:
+  name: huahua
+  age: 20
+
